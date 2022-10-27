@@ -177,9 +177,12 @@ public class UnitTest1
         }
     }
 ```
+## Результат выполнения UnitTest'ов
+На данном скриншоте представлено успешное выполнение тестов
+![тесты](https://sun9-2.userapi.com/impg/4pbqTq88LAR-m92k7OvaWDNoG_8Okdkni4_UOA/8aR0BLuLyA8.jpg?size=1133x498&quality=96&sign=903ecf0b7013083d9431af0bb0ecbe3e&type=album)
 ## Интерфейс калькулятора
-Калькулятор содержит 17 кнопок и 1 textBox. Калькулятор содержит собственный логотип.
-Также в данном приложении отключено свойство Maximized.
+Калькулятор содержит 17 кнопок и 1 textBox. Приложение содержит собственный логотип.
+Также в данном калькуляторе отключено свойство Maximized.
 Интерфейс выглядит следующим образом:
 
 ![Интерфейс калькулятора](https://sun9-4.userapi.com/impg/d7xJ5iwOXrmZqcqtuQawdOVy0BHkXscD0hR3MA/KJ9fA7YYuAI.jpg?size=464x450&quality=96&sign=e613a6844f4ac98b009e29b8f9c822c0&type=album)
